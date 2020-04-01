@@ -1,6 +1,6 @@
 # Kunst.
 
-Das Digitalprojekt **Kunst.** bietet Ismaninger Künstlern und Kulturinteressierten eine Plattform zum kulturellen Austausch.
+Das Digitalprojekt [**Kunst.**](http://kunst.ismaning.digital) bietet Ismaninger Künstlern und Kulturinteressierten eine Plattform zum kulturellen Austausch.
 
 ## Information
 
