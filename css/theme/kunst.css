@@ -315,3 +315,15 @@
   list-style-type: none;
   margin: 0;
 }
+
+/**********************************************
+  * IMPRINT
+  *********************************************/
+#imprint {
+  margin: auto;
+  max-width: 60vw;
+  padding: 2vw;
+}
+#imprint #header {
+  margin-bottom: 2vw;
+}
