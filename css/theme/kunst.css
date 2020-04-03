@@ -90,8 +90,8 @@
    font-style: italic; }
  
  .reveal ol,
- .reveal dl,
- .reveal ul {
+ .reveal dl/*,
+ .reveal ul*/ {
    display: inline-block;
    text-align: left;
    margin: 0 0 0 1em; }
@@ -287,3 +287,14 @@
 .artist {
    font-weight: bold;
 }
+.contact {
+   display: inline-flex;
+   margin: 0 0 0 0;
+   padding: 0;
+   text-align: left; }
+.contact li {
+   margin: 0 0 0 1.35em;
+   padding: 0; }
+.contact li:first-child {
+   list-style-type: none;
+   margin: 0; }
