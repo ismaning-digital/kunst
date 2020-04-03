@@ -282,24 +282,36 @@
   * EMAIL
   *********************************************/
 .atty:after {
-   content: "@"; }
+  content: "@";
+}
 .dotty:after {
-   content: "."; }
+  content: ".";
+}
+
+/**********************************************
+  * ENTRANCE
+  *********************************************/
+.faded {
+  opacity: 0.65;
+}
 
 /**********************************************
   * ARTIST
   *********************************************/
 .artist {
-   font-weight: bold;
+  font-weight: bold;
 }
 .contact {
-   display: inline-flex;
-   margin: 0 0 0 0;
-   padding: 0;
-   text-align: left; }
+  display: inline-flex;
+  margin: 0 0 0 0;
+  padding: 0;
+  text-align: left;
+}
 .contact li {
-   margin: 0 0 0 1.35em;
-   padding: 0; }
+  margin: 0 0 0 1.35em;
+  padding: 0;
+}
 .contact li:first-child {
-   list-style-type: none;
-   margin: 0; }
+  list-style-type: none;
+  margin: 0;
+}
